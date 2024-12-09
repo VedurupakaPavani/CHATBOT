@@ -1,12 +1,16 @@
-![Binaryhood](Logo/BinaryhoodLogo.png)
 
 # ChatBot
 
 ## Installation & Setup
 
-[Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
+[Install Python] 
 
-[Install pip] https://phoenixnap.com/kb/install-pip-mac
+Download Python
+Go to the official Python website.
+Click on Downloads and select the latest version for Windows.
+Download the Python installer (e.g., python-3.x.x-amd64.exe).
+
+
 
 If you have Python & pip installed then check their version in the terminal or command line tools
 
